@@ -1,5 +1,5 @@
 const today = new Date();
-const thisYear = currentDate.getFullYear();
+const thisYear = today.getFullYear();
 
 const footer =  document.createElement("footer");
 const copyright = document.createElement("p");
