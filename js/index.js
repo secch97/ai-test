@@ -1,4 +1,4 @@
-const currentDate = new Date();
+const today = new Date();
 const thisYear = currentDate.getFullYear();
 
 const footer =  document.createElement("footer");
