@@ -58,30 +58,5 @@ main img{
     justify-content: center;
     gap:10px;
 }
-#About{
-    outline: auto;
-}
-#Experience{
-    outline: auto;
-}
-#skills{
-    outline: auto;
-}
-#linkedinlogo{
-    display: block;
-    max-width: 30%;
-    height: auto;
-}
-#twitterlogo{
-    display: block;
-    max-width: 30%;
-    height:auto;
 
-}
-.connect-container{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 10px;
-}
 
