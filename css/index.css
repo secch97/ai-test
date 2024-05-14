@@ -85,16 +85,3 @@ main img{
     gap: 10px;
 }
 
-@media (min-width: 1000px) {
-    body {
-      background-color: orange;
-    }
-  }
-@media (max-width: 800px){
-    body {
-        background-color: darkmagenta;
-    }
-    h2{
-        font-size: 8vw;
-    }
-}
