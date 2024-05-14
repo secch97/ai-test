@@ -15,7 +15,7 @@ font-weight: 100;
 background: fixed;
 }
 
-ul li{
+#experience {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -30,7 +30,7 @@ h2 {
     display:flex;
 }
 
-#dom {
+#connect {
 text-align: center;
 align-items: center;
 justify-content: center;
@@ -38,7 +38,7 @@ color: blue;
 font-size: x-large;
 }
 
-#dom span {
+#connect span {
  display: flex;
   flex-direction: row;
     justify-content: space-between;
