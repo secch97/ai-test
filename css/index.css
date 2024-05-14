@@ -48,7 +48,7 @@ main img{
   }
   
   .container > div {
-    border: 1px salmon;
+    border: 1px solid salmon;
 }
 .title-container{
     display:flex;
