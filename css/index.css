@@ -15,6 +15,11 @@ font-weight: 100;
 background: fixed;
 }
 
+ul li{
+    display: flex;
+    justify-content: space-between;
+}
+
 #About{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: medium;font-weight: 100;
