@@ -1,0 +1,66 @@
+body{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    border-image-width: auto;
+    margin-top: auto;
+    padding: 0%;
+    background-image: url(imgs/bkgdContact.jpg)
+    
+}
+h1{
+text-align: center;
+background-color: blueviolet;
+font-size:xx-large ;
+font-weight: 100;
+background: fixed;
+}
+
+#experience {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#About{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;font-weight: 100;
+}
+
+h2 {
+    display:flex;
+}
+
+#connect {
+    display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+color: blue;
+font-size: x-large;
+}
+
+#connect span {
+ display: flex;
+  flex-direction: row;
+    justify-content: space-between;
+}
+
+  #name {
+    font-family: "Dancing Script", cursive;
+    font-size: 3rem;
+    padding-top:1ch;
+  }
+  #navigation ul {
+    display:flex;
+    gap: 3em;
+    padding-bottom:0;
+    list-style:none;
+   
+  }
+  #navigation {
+    position:fixed;
+    top:0;
+    scroll-padding-top:1ch;
+    background-color: rgb(44, 126, 97);
+   
+  }
